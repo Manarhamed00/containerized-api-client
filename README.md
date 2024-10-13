@@ -84,6 +84,8 @@ Once it's finished, you'll be able to access your application, for example, thro
 - Managing all services centrally using Docker Compose.
 
 - ![api_database](https://github.com/user-attachments/assets/a41cfee3-68b4-4dd3-8586-610c0440f1b9)
+- ![screenshot](https://github.com/user-attachments/assets/e50c8b77-22e9-4dd3-a0d3-bb58105ce29a)
+
 
 
 
