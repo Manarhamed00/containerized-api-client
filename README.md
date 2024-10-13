@@ -66,8 +66,16 @@ A self-signed SSL certificate was created for the Nginx server to ensure secure 
 ### 5. Nginx Configuration:
 Nginx is configured to listen on port 443 (HTTPS) using the self-signed certificate, and it also proxies requests from the Client to the API.
 
+## How to Run the Project
+1. Open your terminal and navigate to the project directory where your docker-compose.yml is located.
+2. Run the following command:
+docker-compose up --build
+This will:
+Rebuild your Docker images (API, client, etc.).
+Start all services (API, client, database, nginx).
+Once it's finished, you'll be able to access your application, for example, through https://UIconnect.com if it's configured properly
+   
 ## Notes:
-- The application should be accessible via both HTTP and HTTPS.
 - In case of issues, you can check the logs with the `docker-compose logs` command.
 
 ## Challenges:
