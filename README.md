@@ -83,5 +83,8 @@ Once it's finished, you'll be able to access your application, for example, thro
 - Enabling HTTPS with the self-signed certificate on Nginx.
 - Managing all services centrally using Docker Compose.
 
+- ![api_database](https://github.com/user-attachments/assets/a41cfee3-68b4-4dd3-8586-610c0440f1b9)
+
+
 
 
